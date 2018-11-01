@@ -10,8 +10,11 @@ Ambibox       >> http://www.ambibox.ru
 
 ### Ambibox Configuration (look at screenshot)
 [1] - Open Ambibox and click more settings 
+
 [2] - Set device "Adalight" and Set com port arduino connected
+
 [3] - Set number of zone your led amount and minimized ambibox 
+
 
 Example video >> https://www.youtube.com/watch?v=qUWcV-n_RcM
 
