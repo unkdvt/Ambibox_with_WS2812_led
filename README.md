@@ -3,7 +3,9 @@ Interface WS2812 RGB led with ambibox and pc
 
 ## Requarments
 Arduino 
+
 WS2812 Addresable RGB LEDs
+
 Ambibox       >> http://www.ambibox.ru
 
 ### Ambibox Configuration (look at screenshot)
