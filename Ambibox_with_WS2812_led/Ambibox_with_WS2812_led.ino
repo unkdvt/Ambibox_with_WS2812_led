@@ -68,9 +68,9 @@ void loop() {
     while(!Serial.available());
     r = Serial.read();
     while(!Serial.available());
-    g = Serial.read();
-    while(!Serial.available());
     b = Serial.read();
+    while(!Serial.available());
+    g = Serial.read();
     leds[i].r = r;
     leds[i].g = g;
     leds[i].b = b;
